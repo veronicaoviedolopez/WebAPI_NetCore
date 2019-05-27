@@ -1,0 +1,14 @@
+C:\Users\verap\source\TodoApi2\bin\Debug\netcoreapp2.2\TodoApi2.deps.json
+C:\Users\verap\source\TodoApi2\bin\Debug\netcoreapp2.2\TodoApi2.runtimeconfig.json
+C:\Users\verap\source\TodoApi2\bin\Debug\netcoreapp2.2\TodoApi2.runtimeconfig.dev.json
+C:\Users\verap\source\TodoApi2\bin\Debug\netcoreapp2.2\TodoApi2.dll
+C:\Users\verap\source\TodoApi2\bin\Debug\netcoreapp2.2\TodoApi2.pdb
+C:\Users\verap\source\TodoApi2\obj\Debug\netcoreapp2.2\TodoApi2.csproj.CoreCompileInputs.cache
+C:\Users\verap\source\TodoApi2\obj\Debug\netcoreapp2.2\TodoApi2.RazorAssemblyInfo.cache
+C:\Users\verap\source\TodoApi2\obj\Debug\netcoreapp2.2\TodoApi2.RazorAssemblyInfo.cs
+C:\Users\verap\source\TodoApi2\obj\Debug\netcoreapp2.2\TodoApi2.AssemblyInfoInputs.cache
+C:\Users\verap\source\TodoApi2\obj\Debug\netcoreapp2.2\TodoApi2.AssemblyInfo.cs
+C:\Users\verap\source\TodoApi2\obj\Debug\netcoreapp2.2\TodoApi2.RazorTargetAssemblyInfo.cache
+C:\Users\verap\source\TodoApi2\obj\Debug\netcoreapp2.2\TodoApi2.dll
+C:\Users\verap\source\TodoApi2\obj\Debug\netcoreapp2.2\TodoApi2.pdb
+C:\Users\verap\source\TodoApi2\obj\Debug\netcoreapp2.2\TodoApi2.csprojAssemblyReference.cache
